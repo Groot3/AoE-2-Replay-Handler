@@ -2,7 +2,7 @@
 Script to automate the process of unzipping and moving files downloaded off of AoE2.net into the replay folder.
 
 How to use:
-<b>Make sure you have node.js installed
+<b>Make sure you have node.js installed</b>
 https://nodejs.org/en/
 
 <b>Navigate to /aoe-2-replay-handler. </b>
@@ -30,3 +30,10 @@ make sure you're still in the correct directory. (AoE-2-Replay-Handler)
 This will generate an executable for linux, mac and windows.
 
 If you're struggling with getting the program to work, have feedback, feature requests or questions, you can contact me on discord at Groot#4556.
+
+# Example Use:
+![Alt text](https://i.imgur.com/ie2Hh1l.png)
+![Alt text](https://i.imgur.com/ZwRlsi8.png)
+
+
+![Alt text](https://i.imgur.com/aUNd9Zc.png)
