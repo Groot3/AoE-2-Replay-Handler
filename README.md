@@ -17,5 +17,6 @@ and the same with your Age of Empires savegame path into saveGame = ''
 
 
 run arh.js & follow prompts depending on what you want to do. 
-If you're doing this through node.js command prompt, you can type arh.js in the AoE-2-Replay-Handler directory.
+If you're doing this through node.js command prompt, you can type node arh.js while inside the aoe-2-replay-handler directory to run the program.
 
+If you're struggling with getting the program to work, have feedback, feature requests or questions, you can contact me on discord at Groot#4556.
